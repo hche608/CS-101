@@ -1,0 +1,59 @@
+V:Southland
+C:1,Jeff La,1,22
+C:4,Jane Mee,2,40
+C:21,Jason Hexer,2,35
+C:24,John Doe,2,43
+C:27,Joe Ra,1,21
+C:31,Jacob Chord,0,17
+C:32,Jarvis Octiva,0,33
+C:55,Jack Dorian,1,31
+C:59,Jesse Tea,0,26
+C:79,James Seo,2,44
+C:81,Jimmy Cha,0,20
+C:89,Jake Far,0,20
+C:97,Jaxon Lydian,2,37
+R:1,3,12,1,2013,1,4,21,24,27
+R:2,0,12,1,2013,1,4,31,59,79,97
+R:3,2,12,1,2013,4,21,55,79,81,89
+R:4,0,13,1,2013,21,24,27,31,32,89,97
+R:5,2,13,1,2013,1,24,27,32,55,79,81,97
+R:6,2,14,1,2013,1,4,27,79,81
+R:7,3,14,1,2013,59,79,81,89,97
+F:1,21,27,4
+F:2,59,31,4
+V:Northland
+C:1,Jeff La,1,22
+C:4,Jane Mee,2,40
+C:24,John Doe,2,43
+C:27,Joe Ra,1,21
+C:31,Jacob Chord,0,17
+C:32,Jarvis Octiva,0,33
+C:55,Jack Dorian,1,31
+C:59,Jesse Tea,0,26
+C:65,Jaden Phrygian,2,35
+C:81,Jimmy Cha,0,20
+C:89,Jake Far,0,20
+C:97,Jaxon Lydian,2,37
+R:1,2,12,1,2013
+R:2,1,12,1,2013
+R:3,0,12,1,2013
+R:4,2,13,1,2013
+V:Eastland
+C:4,Jane Mee,2,40
+C:21,Jason Hexer,2,35
+C:24,John Doe,2,43
+C:27,Joe Ra,1,21
+C:31,Jacob Chord,0,17
+C:32,Jarvis Octiva,0,33
+C:55,Jack Dorian,1,31
+C:59,Jesse Tea,0,26
+C:65,Jaden Phrygian,2,35
+C:79,James Seo,2,44
+C:81,Jimmy Cha,0,20
+C:89,Jake Far,0,20
+C:97,Jaxon Lydian,2,37
+R:1,2,12,1,2013
+R:2,0,12,1,2013
+R:3,1,12,1,2013
+R:4,1,13,1,2013
+R:5,0,13,1,2013
